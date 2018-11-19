@@ -1,0 +1,13 @@
+export distrito_barrio=/baseData/consolidationProcess/distrito_barrio.csv
+export datasetIndicadores=/data/indicadores/datasetIndicadores.csv
+export opinionesTweeter=/data/twitter/opinionesTweeter20181024.csv
+export EvolucionPreciosAlquiler=/data/priceEvolution/rentaalquilerprocessed.csv
+export transporte_agregado=/data/transportProcess/transporte_agregado.csv
+export IntervencionesPMun_unix_utf8=/data/policeActions/IntervencionesPMun_unix_utf8.csv
+export barrios_distritos_NO2=/data/airQuality/barrios_distritos_NO2.csv
+export barrios_distritos_m25=/data/airQuality/barrios_distritos_m25.csv
+export barrios_edge_file=/baseData/transportProcess/Barrios.geojson
+export colegios=/data/schoolsProcessP/output.csv
+
+export datos_consolidados_fin=datos_consolidados_fin.csv
+
